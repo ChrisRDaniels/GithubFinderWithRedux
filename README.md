@@ -1,1 +1,1 @@
-# GirhubFinderFunctionalComponents
+# GithubFinderFunctionalComponents
